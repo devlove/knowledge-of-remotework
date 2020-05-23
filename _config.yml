@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-143511268-2
+include: CONTRIBUTING.md
+
